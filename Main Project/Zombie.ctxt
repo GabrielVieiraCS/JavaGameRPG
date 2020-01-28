@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=maxHealth\ dps
+comment1.target=Zombie(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ enemyName()
+comment3.params=
+comment3.target=int\ getEnemyDamage()
+comment4.params=enemyHP
+comment4.target=void\ setEnemyHP(int)
+comment5.params=
+comment5.target=int\ getEnemyHP()
+numComments=6

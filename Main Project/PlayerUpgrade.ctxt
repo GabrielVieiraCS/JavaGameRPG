@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PlayerUpgrade
+comment1.params=name
+comment1.target=PlayerUpgrade(java.lang.String)
+numComments=2
